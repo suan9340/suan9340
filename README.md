@@ -1,6 +1,6 @@
   <div align=center>
   
-  # Hi I am Suan Woo😀
+  # Hi I am Suan Woo
   #### 🍰2005.06.18🍰
   
   ---
