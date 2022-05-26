@@ -29,7 +29,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suan9340&layout=compact)](https://github.com/suan9340/github-readme-stats)    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan)](https://solved.ac/woosuan)
 <img src="http://mazandi.herokuapp.com/api?handle=woosuan&theme=warm"/>
 
