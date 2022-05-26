@@ -1,14 +1,10 @@
   <div align=center>
   
-  # Hi I am Suan Woo
-  #### 🍰2005.06.18🍰
+  # Hi I am Suan Woo_gameDeveloper
+  #### 2005.06.18        //        2021.03 ~
   
   ---
-  ## **GameDeveloper 😎**
-  2021.03 ~ 
-  
-  ---    
-  
+
   ### **My Email**   
   sue9340@gmail.com
     
