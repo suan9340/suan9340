@@ -5,24 +5,12 @@
   
   ---
   ## **GameDeveloper 😎**
- 
-  **현재 경기게임마이스터고등학교에 2학년으로 재학 중인 우수안 입니다. ╰(*°▽°*)╯**    
-  **게임 개발은 2021년도 3월 부터 배우기 시작했어요!!**    
-  **학교에서 다양한 팀 프로젝트, 개인 프로젝트로 실력을 키우고 있어요.**     
-  
-  **I'm Su An Woo, working On Gyeonggi Game Master High School. ╰(*°▽°*)╯**   
-  **I started learning GameDevelopment in March 2021!!**    
-  **I am improving my skills through various team projects and individual projects at school.**
+  2021.03 ~ 
   
   ---    
   
   ### **My Email**   
   sue9340@gmail.com
-  
-  ### **My SNS**   
-  <a href="https://www.facebook.com/profile.php?id=100059309263948"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-    square&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/suan._.0618/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/suan9340"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     
  ---    
   
