@@ -33,7 +33,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)     
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan">
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan)](https://solved.ac/woosuan)
 <img src="http://mazandi.herokuapp.com/api?handle=woosuan&theme=warm"/>
 
 <!---
