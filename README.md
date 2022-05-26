@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=I'm%20WooSuAn&fontSize=80&rotate=+30)    
+  ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=I'm%20WooSuAn&fontSize=80&rotate=+10)    
 
   <div align=center>
   
