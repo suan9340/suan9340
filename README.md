@@ -25,6 +25,8 @@
   ### **Used at Least Onece**   
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=black"/></a>
+  
+  ### Project in progress
   ---
   </div>
 
@@ -32,6 +34,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan">
+<img src="http://mazandi.herokuapp.com/api?handle={woosuan}&theme=warm"/>
 
 <!---
 suan9340/suan9340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
