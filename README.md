@@ -1,7 +1,8 @@
   <div align=center>
   
-  # Hi I am Suan Woo_gameDeveloper
-  #### 2005.06.18        //        2021.03 ~
+  # Hi I am Suan Woo  
+  gameDeveloper
+  #### 2005.06.18        //        ---2021.03 ~
   
   ---
 
