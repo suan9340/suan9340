@@ -2,7 +2,7 @@
 
   <div align=center>
   
-  gameDeveloper
+  ## gameDeveloper
   #### 2005.06.18        //        ---2021.03 ~
   
   ---
