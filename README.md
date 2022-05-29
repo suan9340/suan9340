@@ -2,8 +2,9 @@
 
   <div align=center>
   
-  ## gameDeveloper
-  #### 2005.06.18        //        ---2021.03 ~
+  # gameDeveloper   
+  ## 🏫경기게임마이스터고등학교 2학년
+  ### Start Programming : 2021.03 ~
   
   ---
 
@@ -24,7 +25,6 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=black"/></a>
   
-  ### Project in progress
   ---
   </div>
 
