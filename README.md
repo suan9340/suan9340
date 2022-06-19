@@ -30,9 +30,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan)](https://solved.ac/woosuan)
-<img src="http://mazandi.herokuapp.com/api?handle=woosuan&theme=warm"/>
 
 <!---
 suan9340/suan9340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
