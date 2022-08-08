@@ -31,7 +31,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suan9340&show_icons=true&theme=material-palenight)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan)](https://solved.ac/woosuan)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woosuan)](https://solved.ac/woosuan/)
 
 <!---
 suan9340/suan9340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
