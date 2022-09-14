@@ -8,9 +8,20 @@
   
   ---
 
-  ### **My Email**   
-  sue9340@gmail.com
-    
+  ### **My Information**   
+  
+ <a href="mailto:sue9340@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sue9340@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+   
+   <a href="https://instagram.com/su_iin">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/su_iin/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
  ---    
   
   ### **Programming Language & Tool I use**   
