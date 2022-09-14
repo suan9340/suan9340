@@ -16,9 +16,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
    
-   <a href="https://instagram.com/su_iin">
+   <a href="https://instagram.com/su_iin2">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/su_iin/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/su_iin2/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
