@@ -2,8 +2,8 @@
 
   <div align=center>
   
-  # gameDeveloper   
-  ## 🏫경기게임마이스터고등학교 2학년
+  # GameDeveloper   
+  ## 🏫경기게임마이스터고등학교 3학년
   ### Start Programming : 2021.03 ~
   
   ---
