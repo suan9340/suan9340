@@ -22,7 +22,7 @@
     
 </a>
    
-   <a href="[https://instagram.com/su_iin2](https://www.notion.so/2a2c4d14127549de8a7484e44f3512f5?pvs=4)](https://www.notion.so/2a2c4d14127549de8a7484e44f3512f5?pvs=4)">
+   <a href="https://www.notion.so/2a2c4d14127549de8a7484e44f3512f5?pvs=4">
     <img 
         src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/2a2c4d14127549de8a7484e44f3512f5?pvs=4" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>    
