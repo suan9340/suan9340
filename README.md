@@ -1,13 +1,11 @@
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=I'm%20WooSuAn&fontSize=80)    
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=838bb2&height=100&section=header&text=¡Hola!&nbsp;우수한&nbsp;개발자가&nbsp;되고픈&nbsp;개발자,&nbsp;우수안입니다.💻&fontColor=cacfe3&fontSize=30&animation=fadeIn&fontAlignY=55)<br/><br/>  
 
   <div align=center>
   
-  # GameDeveloper   
-  ## 🏫경기게임마이스터고등학교 3학년
-  ### Start Programming : 2021.03 ~
-  
-  ---
-
+  # 😊GameDeveloper
+ 
   ### **My Information**   
   
  <a href="mailto:sue9340@gmail.com">
@@ -21,8 +19,15 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/su_iin2/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+    
+</a>
+   
+   <a href="https://instagram.com/su_iin2">
+    <img 
+        src="http://img.shields.io/badge/-Notion-black?style=flat&logo=Notion&link=https://www.notion.so/2a2c4d14127549de8a7484e44f3512f5?pvs=4" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>    
 
- ---    
+ 
   
   ### **Programming Language & Tool I use**   
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
